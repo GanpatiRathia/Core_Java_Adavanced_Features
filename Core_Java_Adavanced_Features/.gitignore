@@ -3,6 +3,7 @@
 *.classpath
 *.project
 *.settings
+*.env
 
 # Log file
 *.log
